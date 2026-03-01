@@ -1,0 +1,16 @@
+{
+  "name": "mytube",
+  "version": "1.0.0",
+  "description": "Major Backend project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Kavy Agrawal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
